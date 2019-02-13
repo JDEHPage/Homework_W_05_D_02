@@ -74,10 +74,10 @@ Park.prototype.removeBySpecies = function (species) {
   };
 
 
-  // Park.prototype.countDietType = function(){
+  // Park.prototype.numberOfDiet = function(){
   //  const dietTypeTotal = {'carnivore': 0, 'herbivore': 0}
   //  const dietTypes = Object.keys(dietTypeTotal)
-  //  for (let dinosaur of this.dinosaurs){
+  //  for (let dinosaur of this.collectionOfDinos){
   //    if (dietTypes.includes(dinosaur.diet)){
   //      dietTypeTotal[dinosaur.diet] += 1
   //    }
